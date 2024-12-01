@@ -1,30 +1,32 @@
-<h1 align="center">Hi 👋, I'm P. Sajeevkanth</h1>
+<h1 align="center">Hi 👋, I'm Patricks Sajeev</h1>
 <h3 align="center">A passionate Backend Developer & Software Engineer at UnicomSD</h3>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="60%" style="border-radius: 10px;" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patricks95&label=Profile%20views&color=0e75b6&style=flat" alt="patricks95" /> </p>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=patricks95&label=Profile%20views&color=0e75b6&style=flat" alt="patricks95" /> </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center" style="text-align: justify;">
-I am a dedicated <strong>Backend Developer & Software Engineer</strong> with a passion for creating efficient, scalable, and secure backend solutions. With hands-on experience in <strong>.NET</strong>, <strong>C#</strong>, <strong>Azure Server Deployment</strong>, and <strong>SQL Server Database Management</strong>, I specialize in crafting applications that meet modern-day business needs.
-</p>
+<table align="center">
+  <tr>
+    <!-- Left Column: Coding GIF -->
+    <td align="center" width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="80%" style="border-radius: 10px;" />
+    </td>
+    <!-- Right Column: About Me Section -->
+    <td align="center" width="50%">
+      <h2>👨‍💻 About Me</h2>
+      <p style="text-align: justify;">
+        I am a dedicated <strong>Backend Developer & Software Engineer</strong> with a passion for creating efficient, scalable, and secure backend solutions. With hands-on experience in <strong>.NET</strong>, <strong>C#</strong>, <strong>Azure Server Deployment</strong>, and <strong>SQL Server Database Management</strong>, I specialize in crafting applications that meet modern-day business needs.
+      </p>
+      <ul align="left">
+        <li> Experienced in <strong>Windows Application Development</strong></li>
+        <li> Proficient in building RESTful APIs and working with Microservices Architecture</li>
+        <li> Skilled in Cloud Technologies like <strong>Azure</strong> and <strong>AWS</strong></li>
+        <li> Advocate for clean, maintainable, and reusable code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-
-<div align="center">
-  <ul style="text-align: left; display: inline-block;">
-    <li>🔹 Experienced in <strong>Windows Application Development</strong></li>
-    <li>🔹 Proficient in building RESTful APIs and working with Microservices Architecture</li>
-    <li>🔹 Skilled in Cloud Technologies like <strong>Azure</strong> and <strong>AWS</strong></li>
-    <li>🔹 Advocate for clean, maintainable, and reusable code</li>
-  </ul>
-</div>
-
-<p align="center">Let's collaborate on exciting backend projects to make technology better! 🚀</p>
+---
 
 <h2 align="center">🔧 Backend Technologies I Work With</h2>
 <div align="center">
